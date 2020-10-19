@@ -1,0 +1,4 @@
+@media(min-width: 1170px) and (max-width: 1465px){.photo{width: 65vw;}}
+@media(min-width: 1000px) and (max-width: 1169px){.photo{width: 55vw;}}
+@media(min-width: 768px) and (max-width: 1169px){.price-all{margin-top: 170px;}}
+@media(min-width: 0px) and (max-width: 767px){.price-all{margin-top: 200px;}}
